@@ -1,6 +1,8 @@
 Group 409: Bike Sharing Machine Learning Model
 ================
 
+Project developed in the MDS program, for the DSCI 522 class, as Group 409.
+
 [![License:
 MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
